@@ -1,23 +1,15 @@
-## Hi there 👋
-#### Coding since 7yo | Expert on Mobile and Cloud Development | AI engineer@Kartavya
+## Hi there 👋 
+### I mostly work on PyTorch/TF, Python, Flutter and Javascript
 
-## Projects
-- [Enlighten AI](https://enlightenai-frontend.vercel.app)
-- [Koncept Klear](https://konceptklear.com)
-- [Research Synth]()
-- [Lyfstyle]()
-- [Staffstream]()
-- [Issuecop]()
-- [Mindnote]()
-- [Lineofcode tutoring]()
-- [Mememotionz]()
-- [Rallyrun]()
-- [SQLDash]()
-- [Improveng]()
+View my personal site [dhruvtiwari.me](https://dhruvtiwari.me)
 
+I'm currently working on [Enlighten AI](https://enlightenai.surge.sh)
 
+and connect with me on my socials:
 
-
+[X](https://x.com/_dhruvtiwari) |
+[Linkedin](https://www.linkedin.com/in/dhruv-tiwari-dev/) |
+[Medium](https://medium.com/@dhruvdtiwari) 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats-jet-rho.vercel.app?user=dhruv1710)](https://git.io/streak-stats)
 **dhruv1710/dhruv1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
