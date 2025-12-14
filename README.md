@@ -1,11 +1,11 @@
 ## Hi there 👋 
-### I mostly work on PyTorch/TF, Python, Flutter and Javascript
+### I mostly work on PyTorch/TF, Python, Flutter and Golang
 
-View my personal site [dhruvtiwari.me](https://dhruvtiwari.me)
+I love coding and building systems!
 
-I'm currently working on [Enlighten AI](https://enlightenai.surge.sh)
+I'm currently working as Fullstack AI eng with [Onfinance AI](https://onfinance.ai)
 
-and connect with me on my socials:
+If you find enjoyment in solving problems from first-principles and scale solutions connect with me on my socials:
 
 [X](https://x.com/_dhruvtiwari) |
 [Linkedin](https://www.linkedin.com/in/dhruv-tiwari-dev/) |
