@@ -1,9 +1,9 @@
 ## Hi there 👋 
-### I mostly work on PyTorch/TF, Python, Flutter and Golang
+### I work on PyTorch/TF, Python, Flutter and Golang. Building Scalable Systems at Onfinance AI
 
 I love coding and building systems!
 
-I'm currently working as Fullstack AI eng with [Onfinance AI](https://onfinance.ai)
+I'm currently working as Fullstack AI eng with [Onfi](https://onfinance.ai)
 
 If you find enjoyment in solving problems from first-principles and scale solutions connect with me on my socials:
 
